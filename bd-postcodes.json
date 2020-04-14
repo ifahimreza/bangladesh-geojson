@@ -4321,12 +4321,12 @@
 		"postCode": "1651"
 	}, {
 		"division_id": "3",
-		,
+		"district_id": "12",
 		"upazila": "Monohordi",
 		"postOffice": "Katabaria",
 		"postCode": "1652"
 	}, {
-		"di"district_id": "12"vision_id": "3",
+		"division_id": "3",
 		"district_id": "12",
 		"upazila": "Monohordi",
 		"postOffice": "Monohordi",
