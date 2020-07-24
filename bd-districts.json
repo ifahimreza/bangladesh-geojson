@@ -63,24 +63,24 @@
       "division_id": "3",
       "name": "Manikganj",
       "bn_name": "মানিকগঞ্জ",
-      "lat": "0",
-      "long": "0"
+      "lat": "23.8644",
+      "long": "90.0047"
     },
     {
       "id": "9",
       "division_id": "3",
       "name": "Munshiganj",
       "bn_name": "মুন্সিগঞ্জ",
-      "lat": "0",
-      "long": "0"
+      "lat": "23.5422",
+      "long": "90.5305"
     },
     {
       "id": "10",
       "division_id": "8",
       "name": "Mymensingh",
       "bn_name": "ময়মনসিংহ",
-      "lat": "0",
-      "long": "0"
+      "lat": "24.7471",
+      "long": "90.4203"
     },
     {
       "id": "11",
@@ -119,8 +119,8 @@
       "division_id": "3",
       "name": "Shariatpur",
       "bn_name": "শরীয়তপুর",
-      "lat": "0",
-      "long": "0"
+      "lat": "23.2423",
+      "long": "90.4348"
     },
     {
       "id": "16",
@@ -135,8 +135,8 @@
       "division_id": "3",
       "name": "Tangail",
       "bn_name": "টাঙ্গাইল",
-      "lat": "0",
-      "long": "0"
+      "lat": "24.2513",
+      "long": "89.9167"
     },
     {
       "id": "18",
@@ -151,16 +151,16 @@
       "division_id": "5",
       "name": "Joypurhat",
       "bn_name": "জয়পুরহাট",
-      "lat": "0",
-      "long": "0"
+      "lat": "25.0968",
+      "long": "89.0227"
     },
     {
       "id": "20",
       "division_id": "5",
       "name": "Naogaon",
       "bn_name": "নওগাঁ",
-      "lat": "0",
-      "long": "0"
+      "lat": "24.7936",
+      "long": "88.9318"
     },
     {
       "id": "21",
@@ -191,8 +191,8 @@
       "division_id": "5",
       "name": "Rajshahi",
       "bn_name": "রাজশাহী",
-      "lat": "0",
-      "long": "0"
+      "lat": "24.3745",
+      "long": "88.6042"
     },
     {
       "id": "25",
@@ -231,8 +231,8 @@
       "division_id": "6",
       "name": "Lalmonirhat",
       "bn_name": "লালমনিরহাট",
-      "lat": "0",
-      "long": "0"
+      "lat": "25.9923",
+      "long": "89.2847"
     },
     {
       "id": "30",
@@ -271,16 +271,16 @@
       "division_id": "1",
       "name": "Barguna",
       "bn_name": "বরগুনা",
-      "lat": "0",
-      "long": "0"
+      "lat": "22.0953",
+      "long": "90.1121"
     },
     {
       "id": "35",
       "division_id": "1",
       "name": "Barishal",
       "bn_name": "বরিশাল",
-      "lat": "0",
-      "long": "0"
+      "lat": "22.7010",
+      "long": "90.3535"
     },
     {
       "id": "36",
@@ -295,8 +295,8 @@
       "division_id": "1",
       "name": "Jhalokati",
       "bn_name": "ঝালকাঠি",
-      "lat": "0",
-      "long": "0"
+      "lat": "22.6406",
+      "long": "90.1987"
     },
     {
       "id": "38",
@@ -311,8 +311,8 @@
       "division_id": "1",
       "name": "Pirojpur",
       "bn_name": "পিরোজপুর",
-      "lat": "0",
-      "long": "0"
+      "lat": "22.5841",
+      "long": "89.9720"
     },
     {
       "id": "40",
@@ -359,16 +359,16 @@
       "division_id": "2",
       "name": "Cox's Bazar",
       "bn_name": "কক্স বাজার",
-      "lat": "0",
-      "long": "0"
+      "lat": "21.4272",
+      "long": "92.0058"
     },
     {
       "id": "46",
       "division_id": "2",
       "name": "Feni",
       "bn_name": "ফেনী",
-      "lat": "23.023231",
-      "long": "91.3840844"
+      "lat": "23.0159",
+      "long": "91.3976"
     },
     {
       "id": "47",
@@ -399,8 +399,8 @@
       "division_id": "2",
       "name": "Rangamati",
       "bn_name": "রাঙ্গামাটি",
-      "lat": "0",
-      "long": "0"
+      "lat": "22.7324",
+      "long": "92.2985"
     },
     {
       "id": "51",
@@ -511,8 +511,8 @@
       "division_id": "4",
       "name": "Satkhira",
       "bn_name": "সাতক্ষীরা",
-      "lat": "0",
-      "long": "0"
+      "lat": "22.7185",
+      "long": "89.0705"
     }
   ]
 }
