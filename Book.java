@@ -1,10 +1,10 @@
 public class Book {
 
-    private String title;
+    private String titl;
     private String author;
 
-    public Book(String title, String author){
-        this.title = title;
+    public Book(String titl, String author){
+        this.titl = titl;
         this.author = author;
     }
      //getters and setters here 
