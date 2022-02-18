@@ -2945,6 +2945,24 @@
       "district_id": "54",
       "name": "Nobigonj",
       "bn_name": "নবীগঞ্জ"
+    },
+    {
+      "id": "493",
+      "district_id": "45",
+      "name": "Eidgaon",
+      "bn_name": "ঈদগাঁও"
+    },
+    {
+      "id": "494",
+      "district_id": "53",
+      "name": "Modhyanagar",
+      "bn_name": "মধ্যনগর"
+    },
+    {
+      "id": "495",
+      "district_id": "7",
+      "name": "Dasar",
+      "bn_name": "দশর"
     }
   ]
 }
