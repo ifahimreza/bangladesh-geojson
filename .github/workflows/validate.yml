@@ -27,9 +27,32 @@ jobs:
       - name: Run data validation
         run: node scripts/validate-data.js
 
+  test:
+    name: Test data integrity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run data tests
+        run: node scripts/test-data.js
+
+  typecheck:
+    name: Type check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm install
+      - run: npx tsc --noEmit
+
   build-demo:
     name: Build demo
-    needs: validate
+    needs: [validate, test, typecheck]
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:

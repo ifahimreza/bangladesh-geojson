@@ -53,6 +53,7 @@
   ],
   "scripts": {
     "validate": "node scripts/validate-data.js",
+    "test": "node scripts/test-data.js",
     "build": "tsc",
     "demo:dev": "npm --prefix demo run dev",
     "demo:build": "npm --prefix demo run build",

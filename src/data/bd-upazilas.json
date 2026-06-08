@@ -88,7 +88,7 @@
       "id": "15",
       "district_id": "35",
       "name": "Mehendiganj",
-      "bn_name": "মেহেদিগঞ্জ "
+      "bn_name": "মেহেদিগঞ্জ"
     },
     {
       "id": "16",
@@ -190,7 +190,7 @@
       "id": "32",
       "district_id": "38",
       "name": "Mirzaganj",
-      "bn_name": "মির্জাগঞ্জ "
+      "bn_name": "মির্জাগঞ্জ"
     },
     {
       "id": "33",
@@ -274,7 +274,7 @@
       "id": "46",
       "district_id": "40",
       "name": "Naikhongchhari",
-      "bn_name": "নাইখংছড়ি "
+      "bn_name": "নাইখংছড়ি"
     },
     {
       "id": "47",
@@ -286,7 +286,7 @@
       "id": "48",
       "district_id": "40",
       "name": "Rowangchhari",
-      "bn_name": "রউয়াংছড়ি "
+      "bn_name": "রউয়াংছড়ি"
     },
     {
       "id": "49",
@@ -670,7 +670,7 @@
       "id": "113",
       "district_id": "47",
       "name": "Dighinala",
-      "bn_name": "দিঘিনালা "
+      "bn_name": "দিঘিনালা"
     },
     {
       "id": "114",
@@ -784,7 +784,7 @@
       "id": "132",
       "district_id": "49",
       "name": "Kobirhat",
-      "bn_name": "কবিরহাট "
+      "bn_name": "কবিরহাট"
     },
     {
       "id": "133",
@@ -796,7 +796,7 @@
       "id": "134",
       "district_id": "49",
       "name": "Suborno Char",
-      "bn_name": "সুবর্ণ চর "
+      "bn_name": "সুবর্ণ চর"
     },
     {
       "id": "135",
@@ -850,7 +850,7 @@
       "id": "143",
       "district_id": "50",
       "name": "Nannerchar",
-      "bn_name": "নান্নেরচর "
+      "bn_name": "নান্নেরচর"
     },
     {
       "id": "144",
@@ -928,7 +928,7 @@
       "id": "156",
       "district_id": "2",
       "name": "Charbhadrasan",
-      "bn_name": "চরভদ্রাসন "
+      "bn_name": "চরভদ্রাসন"
     },
     {
       "id": "157",
@@ -1048,7 +1048,7 @@
       "id": "176",
       "district_id": "5",
       "name": "Sarishabari",
-      "bn_name": "সরিষাবাড়ি "
+      "bn_name": "সরিষাবাড়ি"
     },
     {
       "id": "177",
@@ -1078,7 +1078,7 @@
       "id": "181",
       "district_id": "6",
       "name": "Hossainpur",
-      "bn_name": "হোসেনপুর "
+      "bn_name": "হোসেনপুর"
     },
     {
       "id": "182",
@@ -1474,7 +1474,7 @@
       "id": "247",
       "district_id": "15",
       "name": "Shariatpur Sadar",
-      "bn_name": "শরীয়তপুর সদর "
+      "bn_name": "শরীয়তপুর সদর"
     },
     {
       "id": "248",
@@ -1504,7 +1504,7 @@
       "id": "252",
       "district_id": "15",
       "name": "Gosairhat",
-      "bn_name": "গোসাইর হাট "
+      "bn_name": "গোসাইর হাট"
     },
     {
       "id": "253",
@@ -1636,7 +1636,7 @@
       "id": "274",
       "district_id": "55",
       "name": "Mollahat",
-      "bn_name": "মোল্লাহাট "
+      "bn_name": "মোল্লাহাট"
     },
     {
       "id": "275",
@@ -1678,7 +1678,7 @@
       "id": "281",
       "district_id": "56",
       "name": "Jibannagar",
-      "bn_name": "জীবন নগর "
+      "bn_name": "জীবন নগর"
     },
     {
       "id": "282",
@@ -1702,7 +1702,7 @@
       "id": "285",
       "district_id": "57",
       "name": "Bagherpara",
-      "bn_name": "বাঘের পাড়া "
+      "bn_name": "বাঘের পাড়া"
     },
     {
       "id": "286",
@@ -1720,7 +1720,7 @@
       "id": "288",
       "district_id": "57",
       "name": "Manirampur",
-      "bn_name": "মনিরামপুর "
+      "bn_name": "মনিরামপুর"
     },
     {
       "id": "289",
@@ -1756,7 +1756,7 @@
       "id": "294",
       "district_id": "58",
       "name": "Kotchandpur",
-      "bn_name": "কোট চাঁদপুর "
+      "bn_name": "কোট চাঁদপুর"
     },
     {
       "id": "295",
@@ -1780,7 +1780,7 @@
       "id": "298",
       "district_id": "59",
       "name": "Batiaghata",
-      "bn_name": "বাটিয়াঘাটা "
+      "bn_name": "বাটিয়াঘাটা"
     },
     {
       "id": "299",
@@ -1930,7 +1930,7 @@
       "id": "323",
       "district_id": "64",
       "name": "Assasuni",
-      "bn_name": "আসসাশুনি "
+      "bn_name": "আসসাশুনি"
     },
     {
       "id": "324",
@@ -2110,7 +2110,7 @@
       "id": "353",
       "district_id": "20",
       "name": "Dhamoirhat",
-      "bn_name": "ধামইরহাট "
+      "bn_name": "ধামইরহাট"
     },
     {
       "id": "354",
@@ -2153,18 +2153,6 @@
       "district_id": "21",
       "name": "Lalpur",
       "bn_name": "লালপুর"
-    },
-    {
-      "id": "361",
-      "district_id": "21",
-      "name": "Natore Sadar",
-      "bn_name": "নাটোর সদর"
-    },
-    {
-      "id": "362",
-      "district_id": "21",
-      "name": "Baraigram",
-      "bn_name": "বড়াই গ্রাম"
     },
     {
       "id": "363",
