@@ -141,19 +141,25 @@ for (const u of upazilas) {
   }
 }
 
-// 5. Postcodes — referential integrity (warn-only on missing district mapping per known issue)
-let postcodesMissingDistrict = 0;
+// 5. Postcodes — referential integrity
+const districtMap = new Map(districts.map((d) => [d.id, d]));
 for (const p of postcodes) {
+  const label = `postcode[${p.postCode || 'unknown'}, ${p.postOffice || 'unknown'}]`;
   if (!p.postCode || !p.postOffice) {
-    err(`postcode: missing postCode/postOffice (${JSON.stringify(p)})`);
+    err(`${label}: missing postCode/postOffice (${JSON.stringify(p)})`);
   }
-  if (p.district_id && !districtIds.has(p.district_id)) {
-    err(`postcode[${p.postCode}]: district_id "${p.district_id}" not found in districts`);
+  if (!p.district_id) {
+    err(`${label}: missing required field "district_id"`);
+  } else if (!districtMap.has(p.district_id)) {
+    err(`${label}: district_id "${p.district_id}" not found in districts`);
+  } else {
+    const parentDistrict = districtMap.get(p.district_id);
+    if (p.division_id && p.division_id !== parentDistrict.division_id) {
+      err(
+        `${label}: division_id "${p.division_id}" does not match district[id=${p.district_id}].division_id "${parentDistrict.division_id}"`
+      );
+    }
   }
-  if (!p.district_id) postcodesMissingDistrict++;
-}
-if (postcodesMissingDistrict > 0) {
-  warn(`${postcodesMissingDistrict} postcode(s) missing district_id mapping`);
 }
 
 // Boundary GeoJSON — bbox + join integrity
